@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Digital Whalefood]]></title>
+        <description><![CDATA[Digital Whalefood]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 06 Jun 2016 19:25:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We supply you the creative assets that can impact your demographic.</p>]]></description>
+            <link>undefinedwe-supply-you-the-creative-assets-that-can-impact-your-demog/index.html</link>
+            <guid isPermaLink="false">4f4de5c4-1e78-4157-8451-901f9f8100de</guid>
+            <pubDate>Mon, 06 Jun 2016 19:24:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
